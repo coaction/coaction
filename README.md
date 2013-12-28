@@ -1,0 +1,4 @@
+coaction
+========
+
+Cooperative Action Framework
